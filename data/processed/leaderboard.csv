@@ -1,0 +1,7 @@
+horizon,model,RMSE,MAPE_%,Skill
+H=1d,XGBoost,9.97,116.1,0.129
+H=1d,Prophet,10.28,121.1,0.102
+H=3d,XGBoost,11.38,133.1,0.007
+H=3d,Prophet,10.29,121.1,0.102
+H=7d,XGBoost,11.09,129.3,0.035
+H=7d,Prophet,10.31,121.1,0.103
