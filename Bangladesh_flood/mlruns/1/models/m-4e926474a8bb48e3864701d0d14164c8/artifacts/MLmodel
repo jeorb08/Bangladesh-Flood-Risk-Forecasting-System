@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/USER/Bangladesh_flood/mlruns/1/models/m-4e926474a8bb48e3864701d0d14164c8/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.4
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.12.0
+model_id: m-4e926474a8bb48e3864701d0d14164c8
+model_size_bytes: 3223942
+model_uuid: m-4e926474a8bb48e3864701d0d14164c8
+prompts: null
+run_id: 1a44ff5c70534ec9b06a1f285f83a137
+utc_time_created: '2026-05-21 11:23:30.377107'
