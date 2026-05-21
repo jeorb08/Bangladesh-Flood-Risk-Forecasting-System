@@ -31,7 +31,16 @@ This project builds an **end-to-end flood risk forecasting pipeline** that:
 
 <img width="1918" height="906" alt="Screenshot 2026-05-21 201633" src="https://github.com/user-attachments/assets/bd361770-8c97-41f1-95f2-c3f25ca7e636" />
 
-(data/processed/static_risk_map.png)
+<img width="1655" height="613" alt="Screenshot 2026-05-21 201804" src="https://github.com/user-attachments/assets/619b8677-2eda-4aa9-a8f4-73d628879668" />
+
+<img width="1661" height="727" alt="Screenshot 2026-05-21 201833" src="https://github.com/user-attachments/assets/259b57d7-dda8-4721-b5f2-ee554c98246c" />
+
+<img width="1637" height="491" alt="Screenshot 2026-05-21 201901" src="https://github.com/user-attachments/assets/7dc9fa9a-886a-4f51-8ba2-e50fd7315a6f" />
+
+<img width="1566" height="847" alt="Screenshot 2026-05-21 201929" src="https://github.com/user-attachments/assets/3d66be5e-5671-4a86-8d21-40778f05ca56" />
+
+
+
 
 
 ---
